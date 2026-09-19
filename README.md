@@ -1,114 +1,222 @@
-# 👋 Welcome to My GitHub
+# 👋 Hi, I'm Vigneshwaran S
 
-# VIGNESHWARAN S
+<h3 align="center">🚀 Full Stack Developer | 🐍 Python Developer | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity</h3>
 
-### Aspiring SOC Analyst | Full Stack Developer | AI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Python+%7C+Django+%7C+React.js;AI+%2B+Full+Stack+Development;Cybersecurity+%7C+Automation+%7C+Problem+Solving" />
+</p>
 
-> 💡 "Learning Today, Securing Tomorrow"
-
----
-
-## 🚀 About Me
-
-I'm a **B.E. Computer Science and Engineering graduate (2025)** passionate about:
-
-- 🔐 Cyber Security
-- 💻 Full Stack Development
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-
-I love building useful projects, solving real-world problems, and continuously learning new technologies.
-
-Currently focusing on **SOC Analyst roles** and **Full Stack Development opportunities**.
-
-> 💚 "Small Steps Every Day Lead to Big Results"
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:kssvicky6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### Programming & Development
+```python
+class Vigneshwaran:
 
-- 🐍 Python
-- 🟨 JavaScript
-- 🌐 HTML
-- 🎨 CSS
-- ⚛️ React
-- 🐍 Django
-- 🌶️ Flask
-- 🗄️ SQL
+    role = "Full Stack Developer"
 
-### Cyber Security
+    languages = [
+        "Python",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "SQL"
+    ]
 
-- 🐧 Linux
-- 🦈 Wireshark
-- 📊 Splunk
-- 🔐 Ethical Hacking
-- 🛡️ Network Security
+    frameworks = [
+        "Django",
+        "React.js",
+        "REST APIs",
+        "Bootstrap",
+        "Tailwind CSS"
+    ]
 
-### Tools & Platforms
+    interests = [
+        "AI/ML",
+        "Cybersecurity",
+        "Web Development",
+        "Automation"
+    ]
 
-- 🔀 Git
-- 💻 VS Code
-- 🔥 Firebase
-- 📊 Power BI
+    currently_building = "AI-powered web applications"
 
----
-
-## 📊 GitHub Stats
-
-- 📁 Total Repositories: **25+**
-- ⭐ Total Stars: **50+**
-- 💻 Total Commits: **500+**
-- 🚀 Contributions: **Active**
-- 👥 Followers: **Growing**
-- 🤝 Following: **Developers**
-
-> 📈 Consistent Progress — Every Day 🚀
+    goal = "Build scalable products and solve real-world problems 🚀"
+```
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ Tech Stack
 
-### 🛡️ File Integrity Checker
-**Technology:** Python, Hashlib
+### 💻 Languages
 
-### 🔎 Web Application Vulnerability Scanner
-**Technology:** Python, Requests
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" />
+</p>
+
+### 🚀 Frameworks & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,bootstrap,tailwind" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI Resume Analyzer & Interview Platform
+
+**Python • NLP • Django • React.js**
+
+* 📄 Resume parsing and skill extraction
+* 🎯 Job-description matching
+* 🧠 AI-powered mock interviews
+* ⚡ Real-time feedback and improvement suggestions
+* 🚀 Django REST + React architecture
+
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
+
+---
+
+### 🛡️ VulnScan AI — Website Vulnerability Scanner
+
+**Python • Django • React.js • AI**
+
+* 🔍 SQL Injection detection
+* 🕷️ XSS detection
+* 🔐 CSRF detection
+* ↪️ Open Redirect detection
+* 🤖 AI vulnerability severity classification
+* 📊 PDF / JSON security reports
+
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
+
+---
 
 ### 👤 Fake Profile Detection
-**Technology:** Machine Learning, SVM, Flask
 
-### 🔐 Advanced Encryption Tool
-**Technology:** Python, AES-256
+**Python • Machine Learning**
 
-### 🌐 Conference Website
-**Technology:** HTML, CSS, JavaScript
+* 🧠 Machine-learning classification
+* 📊 Behavioral feature analysis
+* ⚙️ Data preprocessing & feature engineering
+* 🔄 SMOTE for class balancing
+* 📈 Precision, Recall & ROC-AUC evaluation
 
-### 🧰 Penetration Testing Toolkit
-**Technology:** Python, Linux
-
----
-
-## 📚 Currently Learning
-
-- ☑️ SOC Analyst Skills
-- ☑️ SIEM & Threat Analysis
-- ☑️ Advanced Python
-- ☑️ Ethical Hacking
-- ☑️ Full Stack Development
-- ☑️ Django + React
-- ☑️ Cloud & DevOps Basics
-- ☑️ AI/ML Real-World Projects
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
 
 ---
 
-## 💻 Terminal
+## 📊 GitHub Analytics
 
-```bash
-vignesh@github:~$ whoami
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vigneshwarankss&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshwarankss&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-> Student to Professional
-> Problem Solver
-> Tech Explorer
-> Always Learning...
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vigneshwarankss&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vigneshwarankss/vigneshwarankss/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 What I Build
+
+```text
+🌐 Full Stack Web Applications
+🤖 AI-powered Applications
+🔐 Cybersecurity Tools
+🐍 Python Automation
+📊 Data-driven Solutions
+🚀 REST APIs & Backend Systems
+```
+
+---
+
+## 📈 My Developer Journey
+
+```text
+2022 ─────── Diploma in Civil Engineering
+                │
+2025 ─────── BE Computer Science
+                │
+                ├── Python
+                ├── Django
+                ├── React.js
+                ├── AI/ML
+                └── Cybersecurity
+                │
+2026 ─────── Full Stack Developer
+                │
+                └── 🚀 Building AI-powered applications
+```
+
+---
+
+## 🎯 Current Focus
+
+🔹 Advanced Python & Django
+🔹 React.js & Modern Frontend Development
+🔹 AI/ML Integration
+🔹 REST API Architecture
+🔹 Cybersecurity & Secure Development
+🔹 Git, GitHub & CI/CD
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+💼 **Open to Full Stack / Python Developer opportunities**
+
+🚀 **Interested in AI + Web Development**
+
+🔐 **Interested in Cybersecurity**
+
+📩 **[kssvicky6@gmail.com](mailto:kssvicky6@gmail.com)**
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7F00FF,100:FF00A8&height=120&section=footer"/>
+</p>
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+  <i>Code. Build. Learn. Repeat. 🚀</i>
+</p>
